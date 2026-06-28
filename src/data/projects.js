@@ -6,16 +6,13 @@ import CredCloneBanner from "../assets/Images/CredCloneBanner.png";
 import CredClone from "../assets/Images/CredClone.png";
 import UserAuthBanner from "../assets/Images/UserAuthBanner.png";
 import UserAuth from "../assets/Images/UserAuth.png";
-import ToDoBanner from "../assets/Images/Todobanner.png";
-import Todo from "../assets/Images/Todo.png";
+import Todo from "../assets/Images/TodoTemp.png";
+import TodoBanner from "../assets/Images/TodobannerTemp.png";
 import ProjectIcons from "../assets/Images/ProjectIcons.png";
-
 import QRBanner from "../assets/Images/QRBanner.png";
 import QR from "../assets/Images/QR.png";
-
 import PlayListBanner from "../assets/Images/PlayListBanner.png";
 import PlayList from "../assets/Images/PlayList.png";
-
 import ReactJS from "../assets/logo/React.js.png";
 import JavaScript from "../assets/logo/JavaScript.png";
 import CSS from "../assets/logo/CSS.png";
