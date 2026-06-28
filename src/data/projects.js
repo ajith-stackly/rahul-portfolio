@@ -6,7 +6,7 @@ import CredCloneBanner from "../assets/Images/CredCloneBanner.png";
 import CredClone from "../assets/Images/CredClone.png";
 import UserAuthBanner from "../assets/Images/UserAuthBanner.png";
 import UserAuth from "../assets/Images/UserAuth.png";
-import ToDoBanner from "../assets/Images/ToDoBanner.png";
+import ToDoBanner from "../assets/Images/Todobanner.png";
 import Todo from "../assets/Images/Todo.png";
 import ProjectIcons from "../assets/Images/ProjectIcons.png";
 
