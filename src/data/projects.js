@@ -62,7 +62,7 @@ export const projects = [
         title: "To-Do App",
         category: "Frontend",
         description: "Crafted a responsive CRED Landing Page clone using ReactJS for modularity and interactivity, styled with CSS to match the original design.",
-        background: ToDoBanner,
+        background: TodoBanner,
         preview: Todo,
         technologies: ProjectIcons,
     },
